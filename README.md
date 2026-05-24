@@ -102,7 +102,7 @@ Automatically assign the top-3 most relevant category tags to free-text customer
 
 ```bash
 # Clone the repository
-git clone https://github.com/<Hasnain-011>/developershub-ml-internship.git
+git clone https://github.com/Hasnain-011/DevelopersHub-Corporation-Advanced-Internship-Tasks <Hasnain-011>/developershub-ml-internship.git
 cd developershub-ml-internship
 
 # Install dependencies
